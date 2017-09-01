@@ -7,4 +7,4 @@ active ingredient names to ATC code, NHP names or vaccine products.
 
 The ultimate goal was to improve accuracy in the calculation of disproportionality analysis (the [new_cv_drug_rxn.R](https://github.com/hres/data_cleaning_for_disp/blob/master/new_cv_drug_rxn) file includes code for Disproportionality analysis that produce master_table_pt,master_table_hlt for the Disproportionality App)
 
-The [global.R](https://github.com/hres/data_cleaning_for_disp/blob/master/global.R) file includes new file path for Disp App that can be used directly with the corresponding ui.R and server.R files.
+The [global.R](https://github.com/hres/data_cleaning_for_disp/blob/master/global.R) file includes updated file path, which can be used directly with corresponding [ui.R](https://github.com/hres/cvapps/blob/master/apps/shinydisp2/ui.R),[server.R](https://github.com/hres/cvapps/blob/master/apps/shinydisp2/server.R) for Disp App.
